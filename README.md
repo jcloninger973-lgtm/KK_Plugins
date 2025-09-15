@@ -1,4 +1,4 @@
-# KK_Plugins
+# KK_PluginsBlock (ID: 760430f5-182b-4d76-b965-fa78e231b500)
 
 Plugins for Koikatu, Koikatsu Sunshine, EmotionCreators, AI Girl, HoneySelect2, and some other games.
 
